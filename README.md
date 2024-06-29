@@ -1,1 +1,1 @@
-Demonstration basic CRUD operations in SpringBoot
+Demonstrate basic CRUD operations in SpringBoot
